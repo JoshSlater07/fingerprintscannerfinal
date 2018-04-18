@@ -1,0 +1,93 @@
+body {
+  background-color: #3d87ff;
+  padding: 20px;
+  margin: 0;
+}
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
+h1 {
+	color: white;
+}
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  background-color: #111;
+  padding: 0;
+  
+}
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+  text-align: center;
+  
+  
+  
+}
+.content {
+  background-color: #FFF;
+  padding: 20px;
+   border-radius: 25px;
+   text-align: center;
+   
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
+.active {
+  background-color: #b7050b;
+}
+
+	.navbar.hover {
+		 background-color: #0099FF;
+	}
+	.logo {
+		width: 20%;
+		height: 20%;
+text-align: right;
+padding: 10px;
+ border-radius: 30px;
+    
+	}
+	.thumb {
+		width: 10%;
+		height: 10%;
+text-align: right;
+padding: 20px;
+ border-radius: 30px;
+    
+	}
+	.welcome {
+		padding: 0px;
+		background-color: #b5d1ff;
+		border-radius: 30px;
+
+	text-align: center;
+	
+		  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+	}
+	.login {
+		padding: 0px;
+		background-color: #99ad96;
+		border-radius: 30px;
+	}
+	.register {
+		padding: 0px;
+		background-color: #e5b3b3;
+		border-radius: 30px;
+	}
+	
+	
